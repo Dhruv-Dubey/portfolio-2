@@ -1,0 +1,13 @@
+#hello {
+    color: rgba(255, 255, 0, 0.663);
+    color: #E4572E;
+    font-size: 100px;
+}
+
+body {
+
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
